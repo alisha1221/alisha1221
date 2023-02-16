@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to my page! I'm Alisha.
+
+## About me
+
+- Love to learn new things
+- I have a master's degree in Statistics
+- I hold Machine Learning and Deep Learning certificates from Udacity as well as others from Udemy and DataCamp to compliment my experience and expand my knowledge base.
+
 
 <!--
 **alisha1221/alisha1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
