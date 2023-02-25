@@ -4,7 +4,9 @@
 
 - Love to learn new things
 - I have a master's degree in Statistics
-- I hold Machine Learning and Deep Learning certificates from Udacity as well as others from Udemy and DataCamp to compliment my experience and expand my knowledge base.
+- I hold Machine Learning and Deep Learning nanodegree from Udacity as well as other certificates from Udemy and DataCamp to complement my experience and expand my knowledge base.
+- Here is my [resume](https://alisha1221.github.io/resume/)
+- Here is my [portfolio](https://alisha1221.github.io/Portfolio/)
 
 
 <!--
